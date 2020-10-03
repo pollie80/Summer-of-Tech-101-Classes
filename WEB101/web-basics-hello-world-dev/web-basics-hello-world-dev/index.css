@@ -1,0 +1,15 @@
+.purple {
+  /* TODO: Add some style definitions for the purple class in here... */
+  color: purple;
+  background-color: #e0b3ff;
+}
+
+/* #answer-display will have black text on a white background.
+   Hovering the mouse over it will reveal the text */
+#answer-display {
+  background-color: #000;
+}
+
+#answer-display:hover {
+  color: #fff;
+}
